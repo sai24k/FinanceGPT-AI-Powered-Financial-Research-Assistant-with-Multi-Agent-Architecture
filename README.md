@@ -409,11 +409,6 @@ cd ollama_version  # or groq_version
 
 **PowerPoint Presentation:** [Download Presentation](https://github.com/sai24k/FinanceGPT-AI-Powered-Financial-Research-Assistant-with-Multi-Agent-Architecture/blob/main/NLP%20ppt%20compressed.pptx)
 
-- Comprehensive analysis and findings from the project
-- Detailed methodology and implementation details  
-- Performance metrics and results
-- Recommendations and future improvements
-
 ---
 
 </div>
