@@ -277,7 +277,11 @@ FinanceGPT/
 │
 └── 📚 Documentation            # This file + detailed docs
 ```
+## 📄 Project Report and Presentation
 
+**Project Report:** [View on Google Drive](https://drive.google.com/file/d/1gG21mdodB7MQ61qHuNyn8c5UAkmfVZNi/view?usp=drivesdk)
+
+**PowerPoint Presentation:** [Download Presentation](https://github.com/sai24k/FinanceGPT-AI-Powered-Financial-Research-Assistant-with-Multi-Agent-Architecture/blob/main/NLP%20ppt%20compressed.pptx)
 ---
 
 ## 🎓 Learning Resources
@@ -403,13 +407,8 @@ cd ollama_version  # or groq_version
 
 ---
 
-## 📄 Project Report and Presentation
 
-**Project Report:** [View on Google Drive](https://drive.google.com/file/d/1gG21mdodB7MQ61qHuNyn8c5UAkmfVZNi/view?usp=drivesdk)
 
-**PowerPoint Presentation:** [Download Presentation](https://github.com/sai24k/FinanceGPT-AI-Powered-Financial-Research-Assistant-with-Multi-Agent-Architecture/blob/main/NLP%20ppt%20compressed.pptx)
-
----
 
 </div>
 
